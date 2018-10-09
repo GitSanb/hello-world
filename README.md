@@ -1,4 +1,4 @@
 # hello-world
 First Repository
 <br>
-I'm changing careers at age 33 and am a combintation of excited and terrified.
+I am teaching myself coding so I can <italics>leave</italics> my current job and start a <strong>new career</strong> in tech
